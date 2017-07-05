@@ -1,0 +1,35 @@
+@media only screen and (max-width: 577px) {
+    .banners h1 {
+        font-size: 30px;
+    }
+    .support h1 {
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 439px) {
+    .about-us h2 {
+        font-size: 14px;
+    }
+    .about-us p {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 698px) {
+    .banners h1 {
+        font-size: 42px;
+    }
+}
+
+@media only screen and (max-width: 491px) {
+    .banners h1 {
+        font-size: 27px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .support h1 {
+        font-size: 18px;
+    }
+}
